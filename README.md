@@ -18,3 +18,7 @@ The Contact Manager application allows users to store, view, and manage their co
 2. Navigate to the project directory.
 3. Run the script:
    - `python contact_manager.py`
+
+## Author
+**Lalitha Shivapriya Sriramoju**  
+If you have any questions, feel free to reach out at shivapriya032005@gmail.com .
